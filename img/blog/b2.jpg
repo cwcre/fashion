@@ -1,0 +1,238 @@
+3
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Shipping
+LogInit: Branch Name: ++Portal+Release-Live
+LogInit: Command Line: "C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win32\..\..\..\Portal\Binaries\Win64\EpicGamesLauncher.exe"  -SaveToUserDir -Messaging -enablehighdpi
+LogInit: Base Directory: C:/Program Files (x86)/Epic Games/Launcher/Portal/Binaries/Win64/
+LogInit: Allocator: binned2
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 100000 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/ebaab/AppData/Local/EpicGamesLauncher/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/ebaab/AppData/Local/EpicGamesLauncher/Saved/Config/Windows/Engine.ini]
+[2024.10.03-13.25.11:808][  0]LogInit: Computer: DESKTOP-6KRDJ23
+[2024.10.03-13.25.11:808][  0]LogInit: CPU Page size=4096, Cores=4
+[2024.10.03-13.25.11:808][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2024.10.03-13.25.11:808][  0]LogMemory: Memory total: Physical=15.8GB (16GB approx)
+[2024.10.03-13.25.11:808][  0]LogMemory: Platform Memory Stats for Windows
+[2024.10.03-13.25.11:808][  0]LogMemory: Process Physical Memory: 46.00 MB used, 46.00 MB peak
+[2024.10.03-13.25.11:808][  0]LogMemory: Process Virtual Memory: 90.49 MB used, 90.49 MB peak
+[2024.10.03-13.25.11:808][  0]LogMemory: Physical Memory: 8001.34 MB used,  8177.52 MB free, 16178.86 MB total
+[2024.10.03-13.25.11:808][  0]LogMemory: Virtual Memory: 134208544.00 MB used,  9182.80 MB free, 134217728.00 MB total
+[2024.10.03-13.25.11:869][  0]LogAssetRegistry: FAssetRegistry took 0.0011 seconds to start up
+[2024.10.03-13.25.11:870][  0]LogUObjectArray: 854 objects as part of root set at end of initial load.
+[2024.10.03-13.25.11:870][  0]LogUObjectAllocator: 168368 out of 0 bytes used by permanent object pool.
+[2024.10.03-13.25.11:870][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2024.10.03-13.25.11:932][  0]LogInit: Overriding language with game user settings language configuration option (en-US).
+[2024.10.03-13.25.11:932][  0]LogInit: Overriding language with game user settings locale configuration option (en-US).
+[2024.10.03-13.25.11:937][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2024.10.03-13.25.11:938][  0]LogInit: Overriding language with game user settings language configuration option (en-US).
+[2024.10.03-13.25.11:938][  0]LogInit: Overriding language with game user settings locale configuration option (en-US).
+[2024.10.03-13.25.11:939][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2024.10.03-13.25.12:011][  0]LogTextLocalizationManager: Compacting localization data took   0.13ms
+[2024.10.03-13.25.12:011][  0]LogPackageLocalizationCache: Processed 2 localized package path(s) for 1 prioritized culture(s) in 0.000107 seconds
+[2024.10.03-13.25.12:021][  0]LogTaskGraph: Started task graph with 4 named threads and 10 total threads with 1 sets of task threads.
+[2024.10.03-13.25.12:188][  0]LogAnalytics: Display: [UnrealEngineLauncher.Release] APIServer = https://datarouter.ol.epicgames.com. AppVersion = 16.12.1-36115220+++Portal+Release-Live
+[2024.10.03-13.25.13:480][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2024.10.03-13.25.13:492][  0]LogSlate: Using FreeType 2.10.0
+[2024.10.03-13.25.13:551][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2024.10.03-13.25.13:628][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2024.10.03-13.25.13:628][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2024.10.03-13.25.15:157][  0]Portal: Constructing App Data Access Layer
+[2024.10.03-13.25.15:159][  0]LogBuildInfoRepository: Using LauncherLabel Live-HighlandWarrior
+[2024.10.03-13.25.15:402][  0]LogEmsContentProvider: FindBackupEmsFiles - Found 699 Ems files from C:/Program Files (x86)/Epic Games/Launcher/Portal/SysFiles/
+[2024.10.03-13.25.15:406][  0]LogEmsContentProvider: InitializeEmsFiles - Forced Prime: 0, Empty Dir: 0, Manifest Invalid: 0
+[2024.10.03-13.25.16:107][  0]LogSelfUpdateService: Initialising for EpicGamesLauncher:EpicGamesLauncher:EpicGamesLauncher:16.12.1-36115220+++Portal+Release-Live-Windows.
+[2024.10.03-13.25.16:108][  0]BuildPatchServicesModule: 'C:/ProgramData/Epic/EpicGamesLauncher/Data/LauncherUpdate.manifest' file is absent or can't be loaded.
+[2024.10.03-13.25.16:108][  0]SetEpicOverlayLocation: EOSH is installed and OverlayInstallSupported found, skipping setting OverlayPath
+[2024.10.03-13.25.16:109][  0]LogOverlayUpdater: FEpicOverlayUpdater::Initialize Overlay Ownership: EOSH Overlay path: C:\Program Files (x86)\Epic Games\Epic Online Services\managedArtifacts\98bc04bc842e4906993fd6d6644ffb8d EOS Installed State: True
+[2024.10.03-13.25.16:132][  0]LogBuildNotificationRepository: Warning: Image path for notification toast TST_EGS_STREVNT_PURCH_MEGA-SALE-GAME-4_060824+EGS815 is not set or incorrect. Default image will be used.
+[2024.10.03-13.25.16:133][  0]LogBuildNotificationRepository: Warning: Image path for notification toast TST_EGS_ENG_ENG_FREE-GAMES_062724+EGS835 is not set or incorrect. Default image will be used.
+[2024.10.03-13.25.16:197][  0]WinReg: Registry key: SOFTWARE\Epic Games\EOS/ModSdkAppToCheck already set to value: EpicGamesLauncher.exe
+[2024.10.03-13.25.16:197][  0]WinReg: Registry key: SOFTWARE\Epic Games\EOS/ModSdkCommand already set to value: C:/Program Files (x86)/Epic Games/Launcher/Portal/Binaries/Win64/EpicGamesLauncher.exe
+[2024.10.03-13.25.16:197][  0]WinReg: Registry key: SOFTWARE\Epic Games\EOS/ModSdkArguments already set to value: -ApplicationMode=ModSdk
+[2024.10.03-13.25.16:198][  0]WinReg: Registry key: SOFTWARE\Epic Games\EOS/ModSdkMetadataDir already set to value: C:/ProgramData/Epic/EpicGamesLauncher/Data/Manifests
+[2024.10.03-13.25.16:344][  0]LogGeForceNowManager: GeForceNow SDK initialized: 1
+[2024.10.03-13.25.16:344][  0]LogGeForceNowManager: GeForceNow SDK is running in cloud state: false
+[2024.10.03-13.25.16:345][  0]Portal: Constructing App Domain Layer
+[2024.10.03-13.25.16:353][  0]LogInit: Startup::ClearAllChecks
+[2024.10.03-13.25.16:415][  0]FAccountService::AutoSignIn
+[2024.10.03-13.25.16:416][  0]LogOnlineIdentity: OSS: Sending Login request. url=https://account-public-service-prod03.ol.epicgames.com/account, type=refresh, id=[REDACTED]
+[2024.10.03-13.25.16:500][  0]LogInit: Using libcurl 7.55.1-DEV
+[2024.10.03-13.25.16:501][  0]LogInit:  - built for x86_64-pc-win32
+[2024.10.03-13.25.16:501][  0]LogInit:  - supports SSL with OpenSSL/1.1.1
+[2024.10.03-13.25.16:501][  0]LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+[2024.10.03-13.25.16:501][  0]LogInit:  - other features:
+[2024.10.03-13.25.16:501][  0]LogInit:      CURL_VERSION_SSL
+[2024.10.03-13.25.16:501][  0]LogInit:      CURL_VERSION_LIBZ
+[2024.10.03-13.25.16:501][  0]LogInit:      CURL_VERSION_IPV6
+[2024.10.03-13.25.16:501][  0]LogInit:      CURL_VERSION_ASYNCHDNS
+[2024.10.03-13.25.16:501][  0]LogInit:      CURL_VERSION_LARGEFILE
+[2024.10.03-13.25.16:501][  0]LogInit:      CURL_VERSION_IDN
+[2024.10.03-13.25.16:501][  0]LogInit:  CurlRequestOptions (configurable via config and command line):
+[2024.10.03-13.25.16:501][  0]LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+[2024.10.03-13.25.16:501][  0]LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+[2024.10.03-13.25.16:501][  0]LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+[2024.10.03-13.25.16:501][  0]LogInit:  - MaxHostConnections = 0  - Libcurl will NOT limit the number of connections to a host
+[2024.10.03-13.25.16:501][  0]LogInit:  - LocalHostAddr = Default
+[2024.10.03-13.25.16:501][  0]LogInit:  - BufferSize = 524288
+[2024.10.03-13.25.16:501][  0]LogWebBrowser: Registering ContextId=TEMP.
+[2024.10.03-13.25.16:579][  0]FCommunityPortalWinPlatform::GetApplicationPerformanceState failed not supported [Err:87]
+[2024.10.03-13.25.16:583][  0]LogCommunityPortalAppManager: FCommunityPortalEnumerateInstalledRunnable: Discovered 3 item files.
+[2024.10.03-13.25.16:583][  0]LogEOSInstallService: Detected valid EOS installation at path C:\Program Files (x86)\Epic Games\Epic Online Services\service\EpicOnlineServicesHost.exe.
+[2024.10.03-13.25.16:584][  0]LogEOSInstallService: EOS detected during initialization: true.
+[2024.10.03-13.25.16:585][  0]LogEOSMessageService: Error: Port had been cleared and not yet reset.
+[2024.10.03-13.25.16:657][  0]Portal: Constructing App SysTrayPresentation Layer
+[2024.10.03-13.25.16:660][  0]Portal: Constructing App Presentation Layer
+[2024.10.03-13.25.16:664][  0]FCommunityPortalManagerImpl::SetUnrealEnginePortalViewModel UEPVM:2
+[2024.10.03-13.25.16:664][  0]Portal: Constructing App System Tray UI Layer
+[2024.10.03-13.25.16:665][  0]Portal: Constructing App UI Layer
+[2024.10.03-13.25.16:667][  0][SignInRouter] GoToUrl('/id/login')
+[2024.10.03-13.25.16:668][  0][SignInRouter]    Resolved To: '/id/login'
+[2024.10.03-13.25.16:668][  0][SignInRouter]    Best Match: epic-login
+[2024.10.03-13.25.16:687][  0]LogWebBrowser: Creating browser for ContextId=TEMP.
+[2024.10.03-13.25.16:738][  0][MainRouter] GoToUrl('/null')
+[2024.10.03-13.25.16:738][  0][MainRouter]    Resolved To: '/null'
+[2024.10.03-13.25.16:738][  0][MainRouter]    Best Match: invalid - [0] states compared
+[2024.10.03-13.25.16:738][  0][MainRouter]    Navigation Canceled.
+[2024.10.03-13.25.16:762][  1]LogEOSMessageService: Error: Port had been cleared and not yet reset.
+[2024.10.03-13.25.16:950][  2]LogEOSMessageService: Error: Port had been cleared and not yet reset.
+[2024.10.03-13.25.17:417][ 16]LogSelfUpdateService: Launcher build response EpicGamesLauncher:EpicGamesLauncher:EpicGamesLauncher:16.12.1-36115220+++Portal+Release-Live-Windows.
+[2024.10.03-13.25.17:417][ 16]LogInit: AllCheckComplete SelfUpdate=0 SignedIn=0 RequiresRestart=0
+[2024.10.03-13.25.17:417][ 16]LogInit: AllCheckComplete SelfUpdate=1 SignedIn=0 RequiresRestart=0
+[2024.10.03-13.25.17:417][ 16]LogSelfUpdateService: Launcher is up-to-date with the latest available version.
+[2024.10.03-13.25.17:417][ 16]LogSelfUpdateService: Waiting for next version update.
+[2024.10.03-13.25.17:417][ 16]LogInit: AllCheckComplete SelfUpdate=1 SignedIn=0 RequiresRestart=0
+[2024.10.03-13.25.17:686][ 24]FAccountService::OnLoginComplete - 0 TRUE 87f23dfc2032460c8c224f2a3655f1ad 
+[2024.10.03-13.25.17:695][ 24]Portal: Constructing User Data Access Layer
+[2024.10.03-13.25.17:695][ 24]Portal: Constructing User Domain Layer
+[2024.10.03-13.25.17:785][ 24]LogWebBrowser: Registering ContextId=userdomain.
+[2024.10.03-13.25.17:789][ 24]LogPortalCatalog: Error: FItemRepository(poodle)::RequestById(74a25acdf6f2400797f34e51295fb023) - Request for Item unfulfilled because neither an enumeration has happened or on demand mode been enabled.
+[2024.10.03-13.25.17:789][ 24]LogPortalCatalog: Error: FItemRepository(poodle)::RequestById(f73ce1191a0a4abea23fb07451653451) - Request for Item unfulfilled because neither an enumeration has happened or on demand mode been enabled.
+[2024.10.03-13.25.17:789][ 24]LogPortalCatalog: Error: FItemRepository(poodle)::RequestById(7bfa8b7a676841e6b48023913aad1794) - Request for Item unfulfilled because neither an enumeration has happened or on demand mode been enabled.
+[2024.10.03-13.25.17:789][ 24]LogPortalCatalog: Error: FItemRepository(poodle):ÙÕù ¡c×   à‹·Š  
+!                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             E
+­ å	*ãå%•ön
++uLÄ4¶7
+¯“ˆ}íoğh	§	§kã_ 
+5%QW u P r o v i d e r d 6 d 2 9 2 4 c - c a 9 5 - 4 0 c 8 - 8 f 1 3 - f 6 e 4 c b b 2 f 6 f 7 : 2 W a s R e b o o t R e q u i r e d 5%UW u P r o v i d e r d 6 d 2 9 2 4 c - c a 9 5 - 4 0 c 8 - 8 f 1 3 - f 6 e 4 c b b 2 f 6 f 7 : 2 R e b o o t R e q u i r e d T i m e €¡#%AW u P r o v i d e r d a c 8 2 a 1 9 - f 9 b a - 4 5 9 d - a 3 0 a - f 5 6 d 4 b 3 2 6 f a a : 3 U p d a t e S u m m a r y  5%AW u P r o v i d e r a 1 2 6 8 d 8 d - 7 2 5 8 - 4 f 3 6 - a a f 1 - d 2 e 0 8 5 2 8 6 8 7 a : 8 D i s c o v e r y T i m e 5%IW u P r o v i d e r d a c 8 2 a 1 9 - f 9 b a - 4 5 9 d - a 3 0 a - f 5 6 d 4 b 3 2 6 f a a : 3 U p d a t e B l o c k T i m e H~5%9W u P r o v i d e r d a c 8 2 a 1 9 - f 9 b a - 4 5 9 d - a 3 0 a - f 5 6 d 4 b 3 2 6 f a a : 3 U p d a t e B l o c k G}5%9W u P r o v i d e r d a c 8 2 a 1 9 - f 9 b a - 4 5 9 d - a 3 0 a - f 5 6 d 4 b 3 2 6 f a a : 3 Q u e u e N u m b e r 5%YW u P r o v i d e r d a c 8 2 a 1 9 - f 9 b a - 4 5 9 d - a 3 0 a - f 5 6 d 4 b 3 2 6                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  0U#0€ÕöVËè¢\bhÑ=”[×ÎšÄ0VUO0M0K I G†Ehttp://crl.microsoft.com/pki/crl/products/MicRooCerAut_2010-06-23.crl0Z+N0L0J+0†>http://www.microsoft.com/pki/certs/MicRooCerAut_2010-06-23.crt0U •0’0	+‚7.00=+1http://www.microsoft.com/PKI/docs/CPS/default.htm0@+042  L e g a l _ P o l i c y _ S t a t e m e n t . 0	*†H†÷ ‚ tïWO){Ä…x¸PÓ"ü	¬‚—ø4ÿ*,—•åä¿Ï¿“Èã4©Û¸Ü ¾Ò5o¯åy•wåÔñëØÍNa¢ÂZ#ğŒ¨bQEgã?<“ø0…È9@¦×³!)å¥¡iŒ"“Ìt˜ç¡GCòS¬À0işÒ% moaÓßÕÙr ,i†v=QÛ¦9HÉ7amİSË§ÖaÂ¿âƒ«àk›•Ö}(Q°‰JQ¤šlÈ·Ji©×ÜÁ~ÑIpª¶­»rGcú¦Ö¢¦†ì¨D›c¶²i‰ÇF†z?èÅ!Õ{ù#-ÅAË¿LÈï±œü"KIŠnã¦v[ÑSy‘…ÕÒÛ=s5ó<®T²RGjÀª•ÒÚ™g^2Œû7…ÑÜu…œ‡ÆZW…Â¿İŒ›-ë´îÏ'Óµ^iú¤§$gsÏMO¶ŞV—z÷éRMôwO…ÆØñíB	Ñvã#Vx"&6¾Ê±Œnªä…ÚG3b¤É‘3_q@¯˜eÉ"èB!%Š-`Ù7‰A‰*×a<”h`RïÖG™ €@îw>œàSP8•›f3'9x‡6ÎNÃ_²õ=GS¶àåÛa=*×’,Î7Z>@B1¤ÂVœ¿$]QjyÒÓÚÁ”{%qD«jæÔÆß#š–uÅ1‚™0‚•0•0~10	UUS10U
+Washington10URedmond10U
+Microsoft Corporation1(0&UMicrosoft Code Signing PCA 20103  9²´è*"4I/    90	`†He  ‚0
+*†H†÷	10	*†H†÷	1
++‚70
++‚710
++‚70/	*†H†÷	1" DQ§C¥Óå_ô<±ÅTÓçŠ–€hûËÈ‡[Å¯îF#0<
++‚7
+1.,sPY7xPB7hT5g5HHrYt8rDLSM9VuZRuWZaef2e22Rs54=0Z
++‚71L0J $€" M i c r o s o f t   W i n d o w s¡"€ http://www.microsoft.com/windows0	*†H†÷ ‚ ÆubxÄ[İ|* -lögtìNq€!Éuh,ˆFˆ§|…ËZ]xïY Û=C íbÒ†BÕ_]®ŒÍ?9ËMœ‰ÒCü§2•ŒìeßyÌÁ4°İê,#(–±Ï&gáx!«}ÅG˜ÈvÀ U§önMöÏáëcQˆ9¿YåFÅDàu¹N”—ÿÛN¦å~¶ÜBm<kí ]İo7pm?B†“%²šö%c{élÁmTa¬s¡ÅÊgŒT\Zí‰2)5ùß2cäqµlF¿i¾Ít4hŸÕGƒæõxUÏ‰% úÊé|ª¶ÃgúÑ$©o¡‚¹0‚µ
++‚71‚¥0‚¡	*†H†÷ ‚’0‚10	`†He 0‚X*†H†÷	 ‚G‚C0‚?
++„Y
+010	`†He  ,Cé4[Å¨û@–è@ÄŞ„ÇDø¶á6UHNi@Éüæ@[ÎˆØ'20181023091007.526Z0€ô Ô¤Ñ0Î10	UUS10U
+Washington10URedmond10U
+Microsoft Corporation1)0'U Microsoft Operations Puerto Rico1&0$UThales TSS ESN:728D-C45F-F9EB1%0#UMicrosoft Time-Stamp Service ‚!0‚õ0‚İ 3   ÓĞ”V½ƒ     Ó0	*†H†÷ 0|10	UUS10U
+Washington10URedmond10U
+Microsoft Corporation1&0$UMicrosoft Time-Stamp PCA 20100180823202640Z191123202640Z0Î10	UUS10U
+Washington10URedmond10U
+Microsoft Corporation1)0'U Microsoft Operations Puerto Rico1&0$UThales TSS ESN:728D-C45F-F9EB1%0#UMicrosoft Time-Stamp Service0‚"0	*†H†÷ ‚ 0‚
+‚ ®òœ.€m£¡/ïLöl o6¢‹ÙòEÍAÁzÿ^İfÔe•N©e|ÌÌR@åÓX=Œe:§ÇQ&53Ú’w­6ÊÙ†ËeÔôõ cåWk Æı¢<$ü½Ôşkˆà“ø/tuÊë“o:nÍ¥Fº­Íª(|V”uÃí£^´¼&Üú¢e |Â2œ5gCÿ…oÄ Œ^5pyº¯Ù`ğÀú#"¶Ga®4	€òŠB¨O‰‡3Ü§kMøW¬¿ÍL<â}f/=iË_¡-ÔY€ÀN.¨"#ÀŠ…˜Bì1é–>{•<ÈÆˆ[ƒÚg¹úœRó"pq¯ÀÕ§X¦˜m‘õ £‚0‚0U(QÊ¯j;›iZXT ìjÔgx0U#0€Õc:\Š1óC{|FÅ3hZ…mU0VUO0M0K I G†Ehttp://crl.microsoft.com/pki/crl/products/MicTimStaPCA_2010-07-01.crl0Z+N0L0J+0†>http://www.microsoft.com/pki/certs/MicTimStaPCA_2010-07-01.crt0Uÿ0 0U%0
++0	*†H†÷ ‚ =bğı´°ˆÿCÍ¹Øeğ[JhI¿¡•Ó‡‡ˆêH(•Å2ÖUàú;Æ2]ĞeÍ ¯¾ïJC‚¬²Ÿ	‰+¢¦›¢xr&sŠf¡ñ\ôHX-˜=|*–5F-á}dÓJèôÆxYI¦º¯-ükÀ.Rm(,š_ã¤ËŒ¿Ïo!!çZÿyF_ªí<K÷4z­BÙ;	«¹Yš! 1¥EÒò«qíVîÓä\NcúlsmÍÀñ~ë¤Ô$Dcù.:gÓúÑzÚ5÷ôNØ­äË2ò+ì­ÁØ"1Rm€ñ¥‘ğh[ş´Õ A`¬_o0‚q0‚Y 
+a	*     0	*†H†÷ 0ˆ10	UUS10U
+Washington10URedmond10U
+Microsoft Corporation1200U)Microsoft Root Certificate Authority 20100100701213655Z250701214655Z0|10	UUS10U
+Washington10URedmond10U
+Microsoft Corporation1&0$UMicrosoft Time-Stamp PCA 20100‚"0	*†H†÷ ‚ 0‚
+‚ ©¼wŠ: ìü—õúi”ktTÕ¥
+ ‚…ûí|hK,_ÅÃåaÂv·>f+[ğS'1A•Î	|a0Y±0Dñ`ˆ„TC×M¸8³Bİ“¬Ös0W&‚£EĞêõGÍ¿$`2X`FòXG†2„tag‘_T±Ï“L’ÁÄ¦]Ñan(Æù†€»ßaüFÁ'$gr!Š¯Kd‰Pb±]ıw=ğWu¬½ŠBM@QÑœ>gõfÀ–D~ïĞKınåšÊ±¨òz*
+1ğÚN‘¶ˆ5èx°é™Í<ç/Dº§ôÜd½¤Á 	“xÍü¼ÀÉD]^œO"M £‚æ0‚â0	+‚7 0UÕc:\Š1óC{|FÅ3hZ…mU0	+‚7
+ S u b C A0U†0Uÿ0ÿ0U#0€ÕöVËè¢\bhÑ=”[×ÎšÄ0VUO0M0K I G†Ehttp://crl.microsoft.com/pki/crl/products/MicRooCerAut_2010-06-23.crl0Z+N0L0J+0†>http://www.microsoft.com/pki/certs/MicRooCerAut_2010-06-23.crt0 U ÿ•0’0	+‚7.00=+1http://www.microsoft.com/PKI/docs/CPS/default.htm0@+042  L e g a l _ P o l i c y _ S t a t e m e n t . 0	*†H†÷ ‚ æˆQâÆà˜?q=£¡!o³ë¦Ìõ1¾Ïâ©şúWm0³ÂÅfÉjßõçğx½Ç¨%ãù¼íkTW+Q‚Dû¹SŒÌô`ŠvÌ@@A›Ü\ÿ\ù^5˜$VKtïBÈ¯¿Æò7}Z?ò™yJ‘R ¯8õ/yeÙ©µkäÇÎöÊz oK0D$"<Ïí¥–Y)¼¶ıápŸ2J'ıU¯/ş¶å3»b_šÛW@éñÎ™fŒÿjbİÅJ‘&â9ìJqc{!mÃœ£¢<ú}–jx¦mÒáœùü8Ø”ôÆ¥
+–†¤½®Bƒ¸µ€›"8 µ%ådì÷ô¿~cY%z.9Wv¢qªŠ‰ºa§ËšØGš€ÅĞÍ§Ğï}ƒğá;q	ß]t˜"aÚ°Po½ñá ßç1¤“:÷eGxèø¨H«÷Şr~akow©Ë§	¬9»ìÆËØ‚´rÍô¸…€û‰*T9²[ÚÈU™z‡s;æ˜-êà3.)õÀ/T'!÷È¬NÚ(¸±©Û–²§B¢ÉÏAMà†ù*š£f0Ó»t2Kßc{õ™Š/Ç!¯Yµ®ÜD<—Pq×¡ÒÅUãiŞWÁÑŞ0ÀıÌæMû¿]Oé8/¼ÏX.ï P5Úï	'Õ³~5ºÚ6ÛÓ_ŞtˆI¡‚¯0‚—0ş¡Ô¤Ñ0Î10	UUS10U
+Washington10URedmond10U
+Microsoft Corporation1)0'U Microsoft Operations Puerto Rico1&0$UThales TSS ESN:728D-C45F-F9EB1%0#UMicrosoft Time-Stamp Service¢%
+0	+  gBZq®ô"ÚY%5Ã‹Ônj™]g Ş0Û¤Ø0Õ10	UUS10U
+Washington10URedmond10U
+Microsoft Corporation1)0'U Microsoft Operations Puerto Rico1'0%UnCipher NTS ESN:57F6-C1E0-554C1+0)U"Microsoft Time Source Master Clock0	*†H†÷  ßy( 0"20181023125704Z20181024125704Z0v0<
++„Y
+1.0,0
+ ßy(  0	 ÿ0 `0
+ ßzz  06
++„Y
+1(0&0
++„Y
+ 
+0 ã`¡
+0 ¡ 0	*†H†÷ ‚ €>ğ¦Ñf+£4‹ŠÛ+³gN¸?7áóçLl×¦2¨t0+i‡ñîJ³1ÂeğõFšÔÊ6O J\¨ø¼üXÈÖ¦Ê’4k(.€æu˜¯Ìœõà>s‰–È“³,¾^\áİrĞ²uc4põnFWtåÀÂåËø¨ÂY&ÏÉA† ç1F¾¾[û-L·–dê"¦¦@†w\¿}ÙNbËø¼ğ8'…&%¬å¹*K·cyîğ¾cîKïóN@vc¡=¾4·¸¨3%tõÎôî/¶áå.ãnMtÕÇÌDw)œ²°ÈßCñ¡Ù&wò<dhj7h1‚õ0‚ñ0“0|10	UUS10U
+Washington10URedmond10U
+Microsoft Corporation1&0$UMicrosoft Time-Stamp PCA 20103   ÓĞ”V½ƒ     Ó0	`†He  ‚20	*†H†÷	1*†H†÷	0/	*†H†÷	1" ë£†t æ9ÔŞ€ˆ+|Ú0Fc#˜yêªãíîd|i¹¦0â*†H†÷	1Ò0Ï0Ì0±gBZq®ô"ÚY%5Ã‹Ônj™]g0˜0€¤~0|10	UUS10U
+Washington10URedmond10U
+Microsoft Corporation1&0$UMicrosoft Time-Stamp PCA 20103   ÓĞ”V½ƒ     Ó0DÙ~Ü¬¿Eîàh‘Ï_s0	*†H†÷ ‚ ™mÈ'è06èqp\ßRãõ½wD+Ü6 463¹?Yöv¤ÜÇUÎØÆfÉ€œC3ƒÌ#ï­­ƒ¥]¸iAÊ”2†fÄ‹;s JÜ9’ÙW¥× Y@§¢L8÷ıÇq	ó€|µâª|%-ÚÀÍ¢-b?¯ÑóMÚbÂ£Dfı[ømˆòèÙşSêÎmïØ^á¦çÉnòàTmìûÇ‰†ËéÉ@-òç§í˜\+ëHEÆ¢Õ‡q „l_:uå2©t´yê@Ù:ÙN~ËÌşÔpÊ¯6=§÷jîÎ–;À—_[»vj%ZÃ)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          # loose-envify
+
+[![Build Status](https://travis-ci.org/zertosh/loose-envify.svg?branch=master)](https://travis-ci.org/zertosh/loose-envify)
+
+Fast (and loose) selective `process.env` replacer using [js-tokens](https://github.com/lydell/js-tokens) instead of an AST. Works just like [envify](https://github.com/hughsk/envify) but much faster.
+
+## Gotchas
+
+* Doesn't handle broken syntax.
+* Doesn't look inside embedded expressions in template strings.
+  - **this won't work:**
+  ```js
+  console.log(`the current env is ${process.env.NODE_ENV}`);
+  ```
+* Doesn't replace oddly-spaced or oddly-commented expressions.
+  - **this won't work:**
+  ```js
+  console.log(process./*won't*/env./*work*/NODE_ENV);
+  ```
+
+## Usage/Options
+
+loose-envify has the exact same interface as [envify](https://github.com/hughsk/envify), including the CLI.
+
+## Benchmark
+
+```
+envify:
+
+  $ for i in {1..5}; do node bench/bench.js 'envify'; done
+  708ms
+  727ms
+  791ms
+  719ms
+  720ms
+
+loose-envify:
+
+  $ for i in {1..5}; do node bench/bench.js '../'; done
+  51ms
+  52ms
+  52ms
+  52ms
+  52ms
+```
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 The MIT License (MIT)
+
+Copyright (c) Denis Malinochkin
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE 
